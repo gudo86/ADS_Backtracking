@@ -1,0 +1,12 @@
+article CPU
+
+Costs CPU: vend1(100,1), vend2(200,1),vend3(300,2)
+
+,vend5(100,1), vend2(200,1),vend3(300,2)
+
+,vend6(100,1), vend2(200,1),vend3(300,2)
+
+,vend7(100,1), vend2(200,1),vend3(300,2)
+
+Costs Power_supply: vend1(50,1), vend2(100,2),vend3(150,1);
+Discount vend1(1,20)
